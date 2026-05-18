@@ -1,0 +1,1 @@
+console.log("JavaScript が読み込まれました")
